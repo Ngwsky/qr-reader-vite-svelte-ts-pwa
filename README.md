@@ -1,0 +1,1 @@
+# qr-reader-vite-svelte-ts-pwa
